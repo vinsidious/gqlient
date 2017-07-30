@@ -1,5 +1,4 @@
 # gqlient
-> A lightweigh GraphQL client
 
 [![npm](https://img.shields.io/npm/v/gqlient.svg)](https://www.npmjs.com/package/gqlient)
 

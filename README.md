@@ -18,7 +18,7 @@ yarn add gqlient
 import GQLient from 'gqlient';
 ```
 
-Initialize a client by passing your endpoint and an (optional) options object the the `GQLient` constructor. Then you can make requests by running `client.query`, `client.mutate`, or `client.execute` (they all do the same thing). Any of these methods accept two parameters, the first being your query (either a string or query document) and the second being a variables object.****
+Initialize a client by passing your endpoint and an (optional) options object the the `GQLient` constructor. Then you can make requests by running `client.query`, `client.mutate`, or `client.execute` (they all do the same thing). Any of these methods accept two parameters, the first being your query (either a string or query document) and the second being a variables object.
 
 ## License
 
